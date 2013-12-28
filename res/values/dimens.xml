@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="hsv_color_picker_padding">10dp</dimen>
+    <dimen name="hsv_color_picker_barSize">40dp</dimen>
+</resources>
